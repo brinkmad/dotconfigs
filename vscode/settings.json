@@ -1,0 +1,14 @@
+{
+  "editor.fontFamily": "Iosevka Nerd Font Mono",
+  "editor.fontSize": 14.5,
+  "editor.formatOnSave": true,
+  "editor.renderWhitespace": "all",
+  "editor.tabSize": 2,
+  "files.autoSave": "onFocusChange",
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "telemetry.telemetryLevel": "off",
+  "terminal.integrated.defaultProfile.linux": "fish",
+  "workbench.colorTheme": "Dracula",
+  "workbench.iconTheme": "vscode-icons"
+}
