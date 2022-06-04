@@ -1,0 +1,11 @@
+[user]
+email = git@burnedvpn.io
+name = burnedvpn
+[core]
+autocrlf = true
+editor = code
+excludesfile = ~/.gitignore
+[init]
+defaultBranch = main
+[merge]
+guitool = meld
